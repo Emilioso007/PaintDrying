@@ -1,0 +1,14 @@
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\bin\Debug\net8.0\PaintDrying.exe
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\bin\Debug\net8.0\PaintDrying.deps.json
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\bin\Debug\net8.0\PaintDrying.runtimeconfig.json
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\bin\Debug\net8.0\PaintDrying.dll
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\bin\Debug\net8.0\PaintDrying.pdb
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.AssemblyInfo.cs
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.dll
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\refint\PaintDrying.dll
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.pdb
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\PaintDrying.genruntimeconfig.cache
+C:\Users\emilj\Documents\Code\PaintDrying\PaintDrying\obj\Debug\net8.0\ref\PaintDrying.dll
